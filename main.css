@@ -1,0 +1,19 @@
+body{
+    background-color: white(247, 204, 162);
+}
+ul{
+    list-style-type: none;
+}
+a{
+    color: black;
+    font-family: Poppins;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-decoration: none;
+}
+button{
+    Get bordet;
+    font-size: 100;
+}
